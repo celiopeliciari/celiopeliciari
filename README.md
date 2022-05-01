@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @celiopeliciari
+- 👋 Hi, I’m @celiopelliciari
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @celiopeliciari
+- 📫 How to reach me @celiopelliciari
 
 <!---
 celiopeliciari/celiopeliciari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
