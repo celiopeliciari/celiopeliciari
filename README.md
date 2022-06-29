@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @celiopelliciari
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning python and C
+- 💞️ I’m looking a job
 - 📫 How to reach me @celiopelliciari
 
 <!---
