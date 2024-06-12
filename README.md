@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @celiopelliciari
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning python and C
 - 💞️ I’m looking for a job
 - 📫 How to reach me @celiopelliciari
 
